@@ -2,6 +2,8 @@ dist/
 build/
 st_venv/
 
+**/Airbnb_Open_Data.csv
+
 *.log
 *.exe
 *.spec
